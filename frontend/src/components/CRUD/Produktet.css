@@ -1,0 +1,55 @@
+.card {
+  height: 100%;
+}
+
+.card-img-top {
+  border-top-left-radius: 10px;
+  border-top-right-radius: 10px;
+}
+
+.product-title {
+  color: #f4c249;
+}
+
+.product-desc {
+  color: #f4c249;
+}
+
+.product-title {
+  color: #f4c249;
+}
+
+.product-desc {
+  flex-grow: 1;
+}
+
+.card {
+  min-height: 350px;
+}
+
+.card-body {
+  display: flex;
+  flex-direction: column;
+}
+
+.btn-primary {
+  background-color: #f4c249;
+  border-color: #f4c249;
+  color: black;
+}
+
+.btn-primary:hover {
+  background-color: #f4c249;
+  border-color: #f4c249;
+}
+
+.bt {
+  background-color: #f4c249;
+  border-color: #f4c249;
+  color: black;
+}
+
+.bt:hover {
+  background-color: #f4c249;
+  border-color: #f4c249;
+}

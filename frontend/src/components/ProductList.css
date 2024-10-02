@@ -1,0 +1,35 @@
+.product-list {
+  padding: 20px;
+}
+
+.product-list .card {
+  transition: transform 0.2s;
+}
+
+.product-list .card:hover {
+  transform: scale(1.05);
+}
+
+.product-list .card-img-top {
+  height: 200px;
+  object-fit: cover;
+}
+
+.product-list h2 {
+  color: #f4c249;
+}
+
+.product-list .card-title {
+  color: #f4c249;
+}
+
+.product-list .btn-primary {
+  background-color: #f4c249;
+  border-color: #f4c249;
+  color: black;
+}
+
+.product-list .btn-primary:hover {
+  background-color: #f4c249;
+  border-color: #f4c249;
+}

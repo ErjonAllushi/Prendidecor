@@ -1,0 +1,11 @@
+.caroselphoto {
+  width: 100%;
+  height: 500px;
+  object-fit: cover;
+  filter: brightness(90%);
+}
+
+.carousel-caption {
+  color: white;
+  padding: 15px;
+}

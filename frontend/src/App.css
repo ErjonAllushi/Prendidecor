@@ -1,0 +1,9 @@
+.App {
+  text-align: center;
+}
+.body {
+  background: linear-gradient(135deg, #122432 50%, #f4c249 40%, #f4c249 100%);
+  min-height: 100vh; 
+  display: flex;
+  flex-direction: column;
+}

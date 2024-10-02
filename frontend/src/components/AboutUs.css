@@ -1,0 +1,21 @@
+.about-us-container {
+  background-color: #f9f9f9;
+  padding: 50px;
+  border-radius: 10px;
+  text-align: center;
+}
+
+.about-us-title {
+  color: #343a40;
+  font-size: 2.5rem;
+  font-weight: bold;
+}
+
+.about-us-image {
+  width: 80%;
+  border: 5px solid #6c757d;
+}
+
+.p {
+  color: black;
+}
